@@ -21,7 +21,7 @@ Before running the application, ensure you have the following installed:
 2.  Install the dependencies:
 
     ```bash
-    cd connect-backend
+    cd chisel-backend
 
     yarn install
     ```
